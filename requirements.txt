@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+pygame
+gymnasium
+stable-baselines3
+torch
+mabwiser
+pyyaml
+pydantic
+rich
+tqdm
+networkx
